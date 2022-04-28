@@ -1,6 +1,8 @@
-file1-block1-branchMain-line1
+file1-block1-branchTwo-line1  commit 6
 file1-block1-branchMain-line2
 
 
-file1-block2-branchOne-line1 commit 2
-file1-block2-branchOne-line2 commit 1
+file1-block2-branchTwo-line1 commit 3
+file1-block2-branchTwo-line2 commit 4
+
+file1-block3-branchTwo-line1 commit 5
