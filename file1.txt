@@ -1,8 +1,5 @@
-file1-block1-branchMain-line1
-file1-block1-branchMain-line2
-file1-block1-branchMain-line3
+Block1-MasterBranch-Line1-Commit-0
+Block1-MasterBranch-Line2-Commit-0
 
-
-file1-block2-branchMain-line1
-file1-block2-branchMain-line2
-file1-block2-branchMain-line3
+Block2-MasterBranch-Line1-Commit-0
+Block2-MasterBranch-Line2-Commit-0
