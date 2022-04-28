@@ -3,6 +3,6 @@ file1-block1-branchMain-line2
 file1-block1-branchMain-line3
 
 
-file1-block2-branchOne-line1 #taken from master
-file1-block2-branchOne-line2 #taken from master in 2nd commit
-file1-block2-branchOne-line3 #taken from master in 3nd commit
+file1-block2-branchMain-line1
+file1-block2-branchMain-line2
+file1-block2-branchMain-line3
