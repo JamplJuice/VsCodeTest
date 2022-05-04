@@ -1,5 +1,8 @@
 Block1-MasterBranch-Line1-Commit-0
 Block1-MasterBranch-Line2-Commit-0
 
-Block2-MasterBranch-Line1-Commit-0  5th attempt merge test
+Block2-MasterBranch-Line1-Commit-0
 Block2-MasterBranch-Line2-Commit-0
+
+Block3-MasterBranch-Line1-Commit-0
+Block3-MasterBranch-Line2-Commit-0
